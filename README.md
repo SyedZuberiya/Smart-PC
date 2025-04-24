@@ -59,5 +59,7 @@ smart-pc-gesture-voice/
 **Author:**
 
 Syeda Zuberiya
+
 GitHub: github.com/SyedZuberiya
+
 LinkedIn: linkedin.com/in/syed-riya
