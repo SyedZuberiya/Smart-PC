@@ -56,6 +56,16 @@ smart-pc-gesture-voice/
 ├── requirements.txt              # Python dependencies
 └── LICENSE                       # MIT or other license
 
+### Results
+
+- **Gesture Recognition**: Detects gestures for access control and triggers actions like unlocking or alarms.
+- **Voice Commands**: Allows control of PC functions (e.g., open apps, shutdown, restart) via voice.
+- **Security Features**: Includes lockout mechanism after failed attempts for added security.
+- **User Interface**: Simple, intuitive Tkinter GUI with live webcam feed and accessible buttons.
+![image](https://github.com/user-attachments/assets/4720150e-ecaa-48b6-a8c1-f6e92a060eea)
+![image](https://github.com/user-attachments/assets/a83a3f54-f4ec-44fc-9c6c-4c82d3ac85e2)
+
+
 **Author:**
 
 Syeda Zuberiya
