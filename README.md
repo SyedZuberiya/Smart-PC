@@ -11,8 +11,6 @@
 - 📁 Access essential Windows functions (Explorer, Notepad, Lock Screen, Restart, Shutdown, etc.)
 - 🗣️ **Live Voice Captioning** for note-taking or accessibility
 
-## 📽 Demo
-*Coming Soon: Link to video demonstration*
 
 ## 🛠 Tech Stack
 
@@ -40,6 +38,7 @@
    ```bash
    git clone https://github.com/yourusername/smart-pc-gesture-voice.git
    cd smart-pc-gesture-voice
+**Project Structure**
 smart-pc-gesture-voice/
 ├── assets/
 │   └── alarm.mp3                 # Alarm sound file
@@ -57,7 +56,7 @@ smart-pc-gesture-voice/
 ├── requirements.txt              # Python dependencies
 └── LICENSE                       # MIT or other license
 
-Author:
+**Author:**
 
 Syeda Zuberiya
 GitHub: github.com/SyedZuberiya
